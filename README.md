@@ -10,7 +10,7 @@ This project explores bike buyer behavior through data analysis. It includes dat
 
 ## Usage
 
-- Open `Excel_Project_Dataset.xlsx` in Excel.
+- Open `Excel_Dataset.xlsx` in Excel.
 - Explore the interactive dashboard.
 
 ## Highlights
